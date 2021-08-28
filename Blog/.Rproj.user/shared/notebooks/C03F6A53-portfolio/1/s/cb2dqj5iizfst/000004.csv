@@ -1,0 +1,11 @@
+"0","install_theme(""kishaningithub/hugo-creative-portfolio-theme"", theme_example = TRUE, update_config = TRUE)"
+"2","trying URL 'https://github.com/kishaningithub/hugo-creative-portfolio-theme/archive/master.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length unknown
+"
+"2","downloaded 1.9 MB
+
+"
+"2","Error: The theme already exists. Try install_theme(""kishaningithub/hugo-creative-portfolio-theme"", force = TRUE) after you read the help page ?blogdown::install_theme.
+"

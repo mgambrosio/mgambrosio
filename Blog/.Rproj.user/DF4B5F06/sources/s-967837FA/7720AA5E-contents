@@ -1,0 +1,70 @@
+baseurl = "https://mambrosio_portfolio.com/"
+title = "Dr. Maria Ambrosio"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2016 Your name or company"
+  sidebarAbout = [
+    "Dr. Maria Ambrosio is a clinically trained public health researcher with a wide range of experience in research and community outreach interventions. She worked in public and private sector hospitals and has experience and immersion in Europe, Africa, and the United States. As a strong advocate of primary prevention, she has worked throughout her career with nonprofit charities, foundations, faith-based, healthcare, and government authorities to advance children and women's health."
+    "Her main interest areas of research are stress and trauma prevention, noncommunicable disease (NCDs) and digital health."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "mariaambrosio007@hotmail.com"
+  
+  #"you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  email         = "mariaambrosio007.com"
+  #twitter       = "full profile url in twitter"
+  linkedin      = "https://www.linkedin.com/in/mariaambrosio/"
+  #stackoverflow = "full profile url in stackoverflow"
+  #instagram     = "full profile url in instagram"
+  #github        = "full profile url in github"
+  #gitlab        = "full profile url in gitlab"
+  #youtube       = "full profile url in youtube"
+  #whatsapp      = "wa.me service link"
