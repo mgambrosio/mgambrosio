@@ -1,4 +1,4 @@
-baseurl = "https://mariaambrosio.com/"
+baseurl = "https://mariaambrosio.netlify.app/"
 title = "Dr. Maria Ambrosio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
