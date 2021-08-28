@@ -1,4 +1,4 @@
-baseurl = "https://mariaambrosio.org/"
+baseurl = "https://mariaambrosio.com/"
 title = "Dr. Maria Ambrosio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "Do not sell my personal information"
   sidebarAbout = [
     "Dr. Maria Ambrosio is a clinically trained public health researcher with a wide range of experience in research and community outreach interventions. She worked in public and private sector hospitals and has expertise and immersion in Europe, Africa, and the United States. As a strong advocate of primary prevention, she has worked throughout her career with nonprofit charities, foundations, faith-based, healthcare, and government authorities to advance children and women's health."
-    "Her main interest areas of research are stress and trauma prevention, noncommunicable disease (NCDs) and digital health."
+    "Her areas of expertise include Public Health, medicine, nonprofit management, data science, R, SAS, and SQL."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
