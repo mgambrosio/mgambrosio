@@ -1,32 +1,33 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "A Program Impact Evaluation of a Public Health Environmental Intervention in Metro Atlanta to Reduce Water Consumption _Hypothetical Independent Project"
+title = "A Program Impact Evaluation of a Public Health Environmental Intervention in the Metro Atlanta to Reduce Water Consumption"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/water.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-#### Abstract
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+**Abstract** 
+
+The global water crisis affects approximately 758 million people worldwide (Lifewater, 2021). one in ten people lack access to clean water worldwide. Two main factors drive water scarcity, climate, and water demand (EEA, 2020). To create an impact on the demand factor, four counties in the Metropolitan Atlanta area deployed a new project that provides free rainwater barrels to families who request them to store water and use it for non-potable purposes. An RCT was conducted to evaluate the average treatment effect (ATE) of rain barrel use in the reducing water bills of Georgian residents. This RCT analyzed the program's impact in reducing the water bills of residents. Two groups were created, a control group (520 households) with households without a barrel to store rainwater and a treatment group (777 households) of households using water from rain barrels to water gardens and lawns. Participants were followed by one year. There was no loss to follow up. The estimated household water bill for those with or without rainwater barrels was the intercept $220.9. However, the ATE for using rainwater barrels caused an average monthly reduction in water bills of $37. The average annual saving per household was $444. In addition to the environmental benefit the program brings in water preservation, we concluded that it also results in financial savings for households in the Atlanta Metropolitan Area. This evaluation will inform local authorities and residents of the program's economic benefits and provide a rationale for program scalability and expansion to other counties in the State. 
+
+
+![Study model][1]
+
+  Average treatment effect of the water barrel program.The use of the rainwater barrel causes an average monthly reduction in water bills of $37.
+
+
+
+1. Lifewater. (2021). The water crisis. Retrieved from  https://lifewater.org/water-crisis/?gclid=CjwKCAjwos-HBhB3EiwAe4xM91eMQ7xpclwIqdyfvd35b2EpQ4qktwkCy6p-cpSFb3Af6BER30RYexoCX0sQAvD_BwE
+2. European Environmental Agency.(2020). Water use and environmental pressures.Retrieved from https://www.eea.europa.eu/themes/water/european-waters/water-use-and-environmental-pressures#toc-1
+
+>Access the full code to create this analysis here: http://programimpactevaluation.mtcambrosio.com/
+
+
 <!--more-->
+NB: This hypothetical independent project was created using data retrieved from 
+Heiss, A. (2021). Program Evaluation for Public Service. Retrieved from https://evalsp21.classes.andrewheiss.com/
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/barrel.png

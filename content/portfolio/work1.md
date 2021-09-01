@@ -1,31 +1,69 @@
 +++
-showonlyimage = true
+image = "img/portfolio/child.jpg"
+showonlyimage = false
+date = "2016-11-05T19:44:32+05:30"
+title = "Research Experience"
 draft = false
-image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
-weight = 0
+weight = 2
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+
+
+* **Masterof Public Health Research, Georgia State University (August 2019 – April 2021)**
+  *  Dr. Ambrosio conducted a scoping review using the technology-organization-environment framework to analyze the 
+determinants for the sustainable implementation of mobile health (mHealth) applications in developing countries.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+* **Oral Health: Cross-Sectional Study of Children in Low-Income Communities of Luanda, Angola (June 2017- June 2018)**
+  * Dr.  Ambrosio created and implemented  oral health surveillance for children of deprived communities enrolled in the nonprofit Symphonic Orchestra of Luanda, Angola. Created and conducted survey to evaluate children's oral health behavior, status and knowledge
+  
+![Oral health][5]
+Dr. Ambrosio and the children of the Symphonic Orchestra of Luanda while holding a manual containing guidance for better oral health hygiene practices. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![toothbrush distribution][6]
+Volunteer distributing oral hygiene kits for the children.  
+  
+<!--more-->  
+* **Cross-Sectional Study of Health Behavior Risk Factors for Cardiovascular Disease Among Mid-Aged Women in a Faith-Based Community of Luanda, Angola (June 2018)**
+  * Dr. Ambrosio conducted a health promotion campaign, in cooperation with local medical students and faith based institutions, that targeted middle-aged women diagnosed with hypertension and at risk to increase knowledge of healthy eating and the importance of physical activity.Created and conducted a qualitative questionnaire to evaluate women knowledge about healthy lifestyle and 
+behavior. She also analyzed the association between cardiovascular disease risk and health behavior and key anthropometrics.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+<!--more-->  
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![Survey Distribution][1]
+Dr. Ambrosio distributing surveys to collect data on women's knowledge about a healthy lifestyle and behavior.
 
-## Header Level 2
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![Waist circumference measurement][2]
+Student assessing the waist circumference of a participant.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+![Blood pressure measurement][3]
+Volunteer medical student assessing the blood pressure of a participant.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+![Exercise demonstration][4]
+A volunteer middle-aged women demonstrating aerobic physical exercises to the audience.
+
+
+<!--more-->  
+* **Children’s Health: Cross Sectional Study of Children of Soyo, Angola (July 2014)**
+  * Dr. Ambrosio collaborated with the Municipal Hospital of Soyo, Angola, in a cross-sectional study to evaluate the health status of children between the age range of 6 months to 5 years old living in the Soyo village and surrounding islands. She evaluated oral health, relevant co-morbidities, compliance with vaccination, and nutritional status of children. The data collected was used to aid the local government build a child nutrition center in the region.
+   
+![Oral health][7]
+Dr. Ambrosio measures a child's height to apply to the odds ratio data for mortality by weight-for-height. 
+
+![toothbrush distribution][8]
+Dr. Ambrosio with her team and the children of the Island of Mbubu, Angola.
+
+[1]: /img/hyper1.jpg
+[2]: /img/hyper2.jpg
+[3]: /img/hyper3.jpg
+[4]: /img/hyper5.jpg
+
+[5]: /img/oral3.jpg
+[6]: /img/oral1.jpg
+
+[7]: /img/child.jpg
+[8]: /img/child1.jpg
