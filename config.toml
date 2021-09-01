@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Welcome to the personal website of Dr. Maria Ambrosio"
   copyright = "©2020 by Maria Ambrosio. Created with R language code"
   sidebarAbout = [
     "Dr. Maria Ambrosio is a clinically trained public health researcher with a wide range of experience in research and community outreach interventions. She worked in public and private sector hospitals and has expertise and immersion in Europe, Africa, and the United States. As a strong advocate of primary prevention, she has worked throughout her career with nonprofit charities, foundations, faith-based, healthcare, and government authorities to advance children and women's health."
@@ -32,8 +32,8 @@ googleAnalytics = ""
   email = "mariaambrosio007@hotmail.com"
 
     # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
+       #[params.analytics.matomo]
+       #URL = "https://stats.example.com"
       #  ID = "42"
       #  # Track all subdomains with "*.example.com" (Optional)
       #  domain = "www.example.com"
@@ -63,7 +63,6 @@ googleAnalytics = ""
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
   github        = "https://github.com/mgambrosio"
-  CV        = "https://ambrosiopublicfiles.s3.us-east-2.amazonaws.com/maria_ambrosio_resume.pdf?fbclid=IwAR3Ve-P-V9HGPxG6-hLeDDfsIhleiGQwR3lrhCoAtdAX6MiNmDplZlXNYh8"
   #gitlab        = "full profile url in gitlab"
   #youtube       = "full profile url in youtube"
   #whatsapp      = "wa.me service link"
