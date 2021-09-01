@@ -9,14 +9,14 @@ weight = 2
 
 
 
-* **Masterof Public Health Research, Georgia State University (August 2019 – April 2021)**
+* **Master of Public Health Research, Georgia State University (August 2019 – April 2021)**
   *  Dr. Ambrosio conducted a scoping review using the technology-organization-environment framework to analyze the 
-determinants for the sustainable implementation of mobile health (mHealth) applications in developing countries.
+determinants for the sustainable implementation of mobile health (mHealth) applications in developing countries. 
 
 <!--more-->
 
 * **Oral Health: Cross-Sectional Study of Children in Low-Income Communities of Luanda, Angola (June 2017- June 2018)**
-  * Dr.  Ambrosio created and implemented  oral health surveillance for children of deprived communities enrolled in the nonprofit Symphonic Orchestra of Luanda, Angola. Created and conducted survey to evaluate children's oral health behavior, status and knowledge
+  * Dr.  Ambrosio created and implemented oral health surveillance for children of deprived communities enrolled in the nonprofit Symphonic Orchestra of Luanda, Angola. She created and conducted a survey to evaluate children's oral health behavior, status, and knowledge.
   
 ![Oral health][5]
 Dr. Ambrosio and the children of the Symphonic Orchestra of Luanda while holding a manual containing guidance for better oral health hygiene practices. 
@@ -26,8 +26,7 @@ Volunteer distributing oral hygiene kits for the children.
   
 <!--more-->  
 * **Cross-Sectional Study of Health Behavior Risk Factors for Cardiovascular Disease Among Mid-Aged Women in a Faith-Based Community of Luanda, Angola (June 2018)**
-  * Dr. Ambrosio conducted a health promotion campaign, in cooperation with local medical students and faith based institutions, that targeted middle-aged women diagnosed with hypertension and at risk to increase knowledge of healthy eating and the importance of physical activity.Created and conducted a qualitative questionnaire to evaluate women knowledge about healthy lifestyle and 
-behavior. She also analyzed the association between cardiovascular disease risk and health behavior and key anthropometrics.
+  * In cooperation with local medical students and faith-based institutions, Dr. Ambrosio conducted a health promotion campaign that targeted middle-aged women diagnosed with hypertension and at risk to increase their knowledge of healthy eating and the importance of physical activity. She created and conducted a qualitative questionnaire to evaluate women's knowledge about healthy lifestyles and behavior. Dr. Ambrosio analyzed the association between cardiovascular disease risk and cultural determinants, health behavior, and key anthropometrics.
 
 <!--more-->  
 
