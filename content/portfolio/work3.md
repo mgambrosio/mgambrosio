@@ -7,8 +7,8 @@ draft = false
 weight = 2
 +++
 
- * Date of Presentation: 08/12/2021
- * Audience: Georgia Health Policy Center 
+Maria Ambrosio, 
+_Last run: 09-01-2021_
 
 **Background**
 
@@ -110,6 +110,9 @@ https://www.healthaffairs.org/doi/full/10.1377/hlthaff.19.3.40?casa_token=LdKnqd
 5. Barone, E. (2021). COVID-19 Exposed the Faults in America’s Elder Care System. This Is Our Best Shot to Fix Them. Retrieved from https://time.com/6071582/elder-care-after-covid-19/
 6. Dodge, J. (2018). The No-Brainer Case for Universal Long-Term Care. Retrieved from The No-Brainer Case for Universal Long-Term Care – People's Policy Project (peoplespolicyproject.org)
 
+NB: This analysis was presented at the Georgia Health Policy Center on 08/12/2021.
+
+###### Copyright © 2021 Maria Ambrosio 
 
 [1]: /img/DeathrateUS.png
 
