@@ -114,15 +114,15 @@ NB: This analysis was presented at the Georgia Health Policy Center on 08/12/202
 
 ###### Copyright © 2021 Maria Ambrosio 
 
-[1]: /img/DeathrateUS.png
+[1]: /img/deathage.png
 
 
-[2]: /img/covidincidenceUS.png
+[2]: /img/vaccine.png
 
-[3]: /img/deathratestates.png
+[3]: /img/statedeathrate.png
 
-[4]: /img/deathratemedicaid.png
+[4]: /img/avgcovidmedicaid.png
 
-[5]: /img/proportionatemedicaid.png
+[5]: /img/propormedicaid.png
 
-[6]: /img/crudedeathmedicaid.png
+[6]: /img/crudedeath.png
