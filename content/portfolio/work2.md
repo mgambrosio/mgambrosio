@@ -17,7 +17,7 @@ The global water crisis affects approximately 758 million people worldwide (Life
 
 ![Study model][1]
 
-  Average treatment effect of the water barrel program.The use of the rainwater barrel causes an average monthly reduction in water bills of $37.
+Figure 1. Average treatment effect of the water barrel program.The use of the rainwater barrel causes an average monthly reduction in water bills of $37.
 
 
 
