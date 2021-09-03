@@ -11,10 +11,8 @@ Dr. Ambrosio has been working on public health research projects since her earli
 
 Dr. Ambrosio public health experience is not limited to research and includes several efforts to impact policy and inform evidence-based interventions to improve populations' health. 
 
-#### Awards
-* Dean's list, 2021.
-* Winner of the Georgia State University 3 Minute Thesis Competition, 2021.
-https://www.youtube.com/watch?v=cbgg7QQ4zeY
+> Resume: 
+https://ambrosiopublicfiles.s3.us-east-2.amazonaws.com/maria_ambrosio_resume.pdf?fbclid=IwAR3Ve-P-V9HGPxG6-hLeDDfsIhleiGQwR3lrhCoAtdAX6MiNmDplZlXNYh8 
 
 
 [1]: /img/Profile.jpg
