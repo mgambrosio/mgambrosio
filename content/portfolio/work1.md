@@ -22,7 +22,7 @@ determinants for the sustainable implementation of mobile health (mHealth) appli
 Dr. Ambrosio and the children of the Symphonic Orchestra of Luanda while holding a manual containing guidance for better oral health hygiene practices. 
 
 ![toothbrush distribution][6]
-Volunteer distributing oral hygiene kits for the children.  
+A volunteer distributing oral hygiene kits for the children.  
   
 <!--more-->  
 * **Cross-Sectional Study of Health Behavior Risk Factors for Cardiovascular Disease Among Mid-Aged Women in a Faith-Based Community of Luanda, Angola (June 2018)**
@@ -35,11 +35,11 @@ Dr. Ambrosio distributing surveys to collect data on women's knowledge about a h
 
 
 ![Waist circumference measurement][2]
-Student assessing the waist circumference of a participant.
+A student assessing the waist circumference of a participant.
 
 
 ![Blood pressure measurement][3]
-Volunteer medical student assessing the blood pressure of a participant.
+A volunteer medical student assessing the blood pressure of a participant.
 
 
 ![Exercise demonstration][4]
