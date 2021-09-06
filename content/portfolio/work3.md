@@ -12,7 +12,7 @@ _Last run: 09-01-2021_
 
 **Background**
 
-In February 2020, the first case of the novel coronavirus emerged in the U.S, and since then, it has taken the lives of Americans regardless of their race or age group. Older adults were significantly more affected by the SARS-CoV-2 for several reasons. The COVID-19 pandemic affected the three main domains for healthy aging, function, health status, and social inclusion. Due to prevention guidelines and high peak of infections, older Americans faced more barriers to maintaining a high level of mental and physical functioning and maintain an active engagement with life. The age group was also at higher risk for disease and disability due to age-related physiological changes such as decreased cardiac output and impaired gas exchange of the lungs (Drummond-Barbosa, 2020; Anderson et al., 2012).  
+In February 2020, the first case of the novel Coronavirus emerged in the U.S, and since then, it has taken the lives of Americans regardless of their race or age group. Older adults were significantly more affected by the SARS-CoV-2 for several reasons. The COVID-19 pandemic affected the three main domains for healthy aging, function, health status, and social inclusion. Due to prevention guidelines and high peak of infections, older Americans faced more barriers to maintaining a high level of mental and physical functioning and maintain an active engagement with life. The age group was also at higher risk for disease and disability due to age-related physiological changes such as decreased cardiac output and impaired gas exchange of the lungs (Drummond-Barbosa, 2020; Anderson et al., 2012).  
 
 <!--more-->
 
@@ -111,6 +111,8 @@ https://www.healthaffairs.org/doi/full/10.1377/hlthaff.19.3.40?casa_token=LdKnqd
 6. Dodge, J. (2018). The No-Brainer Case for Universal Long-Term Care. Retrieved from The No-Brainer Case for Universal Long-Term Care – People's Policy Project (peoplespolicyproject.org)
 
 NB: This analysis was presented at the Georgia Health Policy Center on 08/12/2021.
+
+>Access the full code to create this analysis here: http://covid19-dataexploration.mtcambrosio.com/?fbclid=IwAR2yxt4Vhvim3wjvtnaciPdzgqXRNLcvXPqdO7h_waHT5JPAWXn4hVJXP68
 
 ###### Copyright © 2021 Maria Ambrosio 
 

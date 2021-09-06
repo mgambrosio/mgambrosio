@@ -31,10 +31,11 @@ _Last run: 09-03-2021_
 
 Figure 2. Model predicting age of CHD onset based on the smoking start age of an individual. 
 
->Access the full code to create this analysis here: http://programimpactevaluation.mtcambrosio.com/
+>Access the full code to create this analysis here: http://smokingchdanalysis.mtcambrosio.com/?fbclid=IwAR3Sqn08zLOTk5jDvEMjZMJS_4N7S2VCRbmvKRQspRajkmmgZotb76PQ0uk
 
 
 <!--more-->
+
 
 ###### Copyright © 2021 Maria Ambrosio
 
